@@ -1,6 +1,6 @@
 # SwipeNews Issues
 
-Welcome to the issues repository of **SwipeNews - RSS News Reader** android application. 
+Welcome to the issues repository of **SwipeNews - RSS & News Reader** android application. 
 
 Here you are able to view existing feature requests and bug reports or contribute with your own ideas. Make sure to read the rules before starting! 
 
