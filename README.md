@@ -6,9 +6,10 @@ Here you can view existing feature requests and bug reports or contribute with y
 
 - [View existing issues][issues]
 - [Track development][trello]
+- [Join Beta testing][beta-testing]
 - [Download SwipeNews][download]
 
-**NOTE:** The application is currently in **closed alpha**.
+**NOTE:** The application is currently in **open beta**.
 
 
 # General rules 
@@ -22,3 +23,4 @@ If you don't have GitHub account and don't want to create one you can also send 
 [issues]: https://github.com/Tunous/SwipeNews-Issues/issues
 [trello]: https://trello.com/b/bmBdy6v3/swipenews
 [download]: https://play.google.com/store/apps/details?id=me.thanel.swipenews
+[beta-testing]: https://play.google.com/apps/testing/me.thanel.swipenews
