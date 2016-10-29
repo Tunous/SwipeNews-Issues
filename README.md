@@ -6,6 +6,7 @@ Here you can view existing feature requests and bug reports or contribute with y
 
 - [View existing issues][issues]
 - [Track development][trello]
+- [Help translating][translate]
 - [Join Beta testing][beta-testing]
 - [Download SwipeNews][download]
 
@@ -24,3 +25,4 @@ If you don't have GitHub account and don't want to create one you can also send 
 [trello]: https://trello.com/b/bmBdy6v3/swipenews
 [download]: https://play.google.com/store/apps/details?id=me.thanel.swipenews
 [beta-testing]: https://play.google.com/apps/testing/me.thanel.swipenews
+[translate]: https://www.localize.im/v/vb
