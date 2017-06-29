@@ -538,8 +538,6 @@ Changed the order to make it easier to find actions and added dividers to separa
 # <a id="v0.11.1">0.11.1 - Clean up and error handling (Sep 19, 2016)</a>
 Slowly preparing for open alpha. This is a small update focused on error handling and bug fixes.
 
-___
-
 ## Features
 
 - Option to reset dismisses
@@ -614,8 +612,6 @@ Another update focused on bug fixes and improvements, with few bonus features. O
 
 Work on premium features also started and now there is a special screen dedicated for them.
 
-___ 
-
 ## Features 
 - Quick theme switcher
 - Premium features screen
@@ -638,7 +634,7 @@ ___
 
 # <a id="v0.10.2">0.10.2 - Advertisements (Aug 22, 2016)</a>
 Small version which focuses on improvements. Main change is a new screen navigation behavior which makes sure that you are always able to go back to previous screens.
-___ 
+
 ## Features 
 
 - New screen navigation behavior.
@@ -664,7 +660,6 @@ Not a cool feature but something to earn money. In-App purchases and premium fea
 Small update which focuses on code improvements for articles swiping. The code which was used for it has been moved to separate library (soon to be open source). This will make it possible from other people to contribute and improve it.
 
 New screen switching animations have been added as a bonus feature.
-___ 
 
 ## Features 
 
@@ -715,8 +710,6 @@ ___
 # <a id="v0.9.0">0.9.0 - Application information screens (Jul 17, 2016)</a>
 This version is about displaying application information to the user. I've new screens with changelogs, library licenses and useful links. In addition there are some bug fixes for annoying issues.
 
-___ 
-
 #### Features 
 
 - **Changelog cards**
@@ -738,8 +731,6 @@ ___
 
 # <a id="v0.8.0">0.8.0 - Feedly integration (Jul 6, 2016)</a>
 In this version I've focused on adding integration with Feedly service and implemented OAuth2 for Inoreader. Bonus new features that are now available are multiple accounts support and subscriptions search.
-
-___ 
 
 ##### Features
 - **Multiple accounts support**
