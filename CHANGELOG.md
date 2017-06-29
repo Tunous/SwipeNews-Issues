@@ -1,6 +1,6 @@
 # **Current version**
 
-# <a id="v0.20.3">0.20.3 - Bug fixes (Jun 27, 2017)</a>
+# <a id="v0.20.3">0.20.3 - Split pane improvements (Jun 27, 2017)</a>
 
 ## Improvements
 
@@ -25,23 +25,36 @@
 
 # **Updates history**
 
-- [0.20.2 - Tablet layout](#v0.20.2)
+- [0.20.2](#v0.20.2)
+- [0.20.1](#v0.20.1)
+- [0.20.0 - Tablet layout](#v0.20.0)
 - [0.19.5 - Subscriptions search fix](#v0.19.5)
 - [0.19.4 - Reappearing ads fix](#v0.19.4)
 - [0.19.3 - Bug fixes and minor features](#v0.19.3)
-- [0.19.2 - Subscriptions navigation](#v0.19.2)
+- [0.19.2](#v0.19.2)
+- [0.19.1](#v0.19.1)
+- [0.19.0 - Subscriptions navigation](#v0.19.0)
 - [0.18.5 - Freeze fix](#v0.18.5)
 - [0.18.4 - Article time fix](#v0.18.4)
 - [0.18.3 - Article content rendering fix](#v0.18.3)
-- [0.18.2 - Font customization](#v0.18.2)
-- [0.17.5 - Colorful scroll edges](#v0.17.5)
+- [0.18.2](#v0.18.2)
+- [0.18.1](#v0.18.1)
+- [0.18.0 - Font customization](#v0.18.0)
+- [0.17.5](#v0.17.5)
+- [0.17.4 - Colorful scroll edges](#v0.17.4)
 - [0.17.3 - Android Nougat crash fix](#v0.17.3)
-- [0.17.2 - Toolbar unread counter](#v0.17.2)
+- [0.17.2](#v0.17.2)
+- [0.17.1](#v0.17.1)
+- [0.17.0 - Toolbar unread counter](#v0.17.0)
 - [0.16.1 - Performance fix](#v0.16.1)
 - [0.16.0 - Article starring](#v0.16.0)
-- [0.15.1 - Article list customization](#v0.15.1)
+- [0.15.1](#v0.15.1)
+- [0.15.0 - Article list customization](#v0.15.0)
 - [0.14.4 - Full content toggle](#v0.14.4)
-- [0.14.3 - Polish translation](#v0.14.3)
+- [0.14.3](#v0.14.3)
+- [0.14.2](#v0.14.2)
+- [0.14.1](#v0.14.1)
+- [0.14.0 - Polish translation](#v0.14.0)
 - [0.13.1 - Font size](#v0.13.1)
 - [0.13.0 - Search screen](#v0.13.0)
 - [0.12.0 - Readability mode](#v0.12.0)
@@ -65,7 +78,14 @@
 - [0.2.0 - Theming and subscriptions list](#v0.2.0)
 - [0.1.0 - The beginning](#v0.1.0)
 
-# <a id="v0.20.2">0.20.2 - Tablet layout (Jun 19, 2017)</a>
+# <a id="v0.20.2">0.20.2</a>
+- Fixed incorrect updating of mark as read button
+- Fixed Chinese language not working in language setting
+
+# <a id="v0.20.1">0.20.1</a>
+- Fixed all settings getting reset to default values
+
+# <a id="v0.20.0">0.20.0 - Tablet layout (Jun 19, 2017)</a>
 ## Features
 
 - Split screen tablet layout
@@ -115,7 +135,13 @@
 - Articles list is no longer scrolled if you return from content screen without changing article
 - Fixed TeslaUnread counter not getting updated when marking all articles as read and leaving application 
 
-# <a id="v0.19.2">0.19.2 - Subscriptions navigation (Mar 30, 2017)</a>
+# <a id="v0.19.2">0.19.2</a>
+- Fixed possibility of being unable to change some settings
+
+# <a id="v0.19.1">0.19.1</a>
+- Updated translations
+
+# <a id="v0.19.0">0.19.0 - Subscriptions navigation (Mar 30, 2017)</a>
 ## Features
 - Subscriptions list as default screen
 - Option to disable header images in article content screen
@@ -135,30 +161,34 @@
 - Crash when scrolling to first unread article
 - Article is not getting highlighted as read after opening it and returning
 
-# <a id="v0.18.5">0.18.5 - Freeze fix (Feb 15, 2017)</a>
+# <a id="v0.18.5">0.18.5</a>
 - Fixed freeze issue on some devices
 
-# <a id="v0.18.4">0.18.4 - Article time fix (Feb 14, 2017)</a>
+# <a id="v0.18.4">0.18.4</a>
 - Fixed incorrectly displayed time on some articles
 - Improved performance of unread counts background synchronization
 
-# <a id="v0.18.3">0.18.3 - Article content rendering fix (Feb 13, 2017)</a>
+# <a id="v0.18.3">0.18.3</a>
 - Fixed article content not rendering on some devices
 
+# <a id="v0.18.2">0.18.2</a>
+- Fixed toolbar behavior with auto-hide disabled
 
+# <a id="v0.18.1">0.18.1</a>
+- Fixed article gestures and fab events
 
-# <a id="v0.18.2">0.18.2 - Font customization (Feb 12, 2017)</a>
+# <a id="v0.18.0">0.18.0 - Font customization (Feb 12, 2017)</a>
 ## Features
 
-##### Font customization
+### Font customization
 
 Option to set different fonts for application interface and article content. In this version, I have added few variations of the Roboto font and Lato font as possible choices. If you know other fonts that can be used then please let me know about them.
 
-##### TeslaUnread integration
+### TeslaUnread integration
 
 You can enable this feature to sync unread article counts in the background and display them as application badge. Note that this only works with TeslaUnread. Please send me a message if you are aware of similar "applications" that could be integrated.
 
-##### Other
+### Other
 
 - Option to set toggling of article read state as Floating Action Button action
 - Option to autoplay gifs in article list
@@ -166,13 +196,13 @@ You can enable this feature to sync unread article counts in the background and 
 
 ## Improvements
 
-##### Better scrolling and toolbar auto-hiding
+### Better scrolling and toolbar auto-hiding
 
 I've rewritten how the toolbar and header auto-hiding works to fix issues with status-bar. It no longer covers the top of the article content and stays colored after toolbar/header collapses to follow the behavior in other applications.
 
 Another improvement coming from this change is the fixed handling of multiple fingers. Now you should be able to use more than one finger to scroll the content without any issues.
 
-##### Other
+### Other
 
 - Grouped debug options under sub-menu to organize them together
 - Added button to request new integrations from login screen
@@ -189,26 +219,29 @@ Another improvement coming from this change is the fixed handling of multiple fi
 - Fixed crash when quickly navigating between articles
 - Fixed some setting applying issues
 
-# <a id="v0.17.5">0.17.5 - Colorful scroll edges (Jan 29, 2017)</a>
+# <a id="v0.17.5">0.17.5</a>
+- Fixed crashes when loading full content
+
+# <a id="v0.17.4">0.17.4 - Colorful scroll edges (Jan 29, 2017)</a>
 ## Improvements
 
-##### Colorful scroll edges
+### Colorful scroll edges
 
 Improved all of the scroll edge glow effects. Now they should be colored to match the application theme instead of always being green! (Android Lollipop and higher)
 
-##### New articles full content parser
+### New articles full content parser
 
 I decided to change the full content parser used by SwipeNews. This new one should give much better results for some of the sites. Thanks for showing me it.
 
-##### Better color animations
+### Better color animations
 
 When changing accent color all the colors are now nicely animating similar to how it's done when changing primary color. In addition, the circles showing currently selected color also animate.
 
-##### Link in long-press actions menu
+### Link in long-press actions menu
 
 Made the link in long-press actions menu selectable so you cal freely copy just a part of it. Also changed its scroll direction to horizontal which feels much easier to use and improves the look by having its top and bottom always aligned.
 
-##### Other improvements
+### Other improvements
 
 - Improved the screen animations in settings to avoid displaying ugly black background noticeable in light themes
 
@@ -232,14 +265,21 @@ This a smaller update focused on fixing crash issues on Android Nougat. It took 
 - Fixed incorrect height of toolbar in image screen
 - Fixed few memory leaks
 
-# <a id="v0.17.2">0.17.2 - Toolbar unread counter (Jan 11, 2017)</a>
+# <a id="v0.17.2">0.17.2</a>
+- Fixed toolbar collapsing behavior
+- Fixed toolbar peek feature not working with auto-hide enabled
+
+# <a id="v0.17.1">0.17.1</a>
+- Fixed crash when rotating device
+
+# <a id="v0.17.0">0.17.0 - Toolbar unread counter (Jan 11, 2017)</a>
 ## Features
 
-##### Unread articles count in toolbar
+### Unread articles count in toolbar
 
 Shows the amount of articles that are unread inside of a badge located in the toolbar. Available both in list and content screens and can be disabled with a setting. 
 
-##### Rewrite of article content screen
+### Rewrite of article content screen
 
 This is a huge change which took a lot of time for this update. It was done in order to improve the loading and scrolling performance in that screen and also to make it more stable. There is a list of improvements and new features coming with it:
 
@@ -251,11 +291,11 @@ This is a huge change which took a lot of time for this update. It was done in o
 
 Please report any issues with it as that change required a lot of changes to get it right and I might have missed some bugs. 
 
-##### Mark as read on scroll setting split
+### Mark as read on scroll setting split
 
 This option was previously affecting both, scrolling within articles list and content screen. Now you can customize them separately. Note that due to this change the previous option you've selected now affects only articles list and marking as read in content screen is turned on for everyone.
 
-##### Volume-keys navigation
+### Volume-keys navigation
 
 Available in 3 options:
 
@@ -309,7 +349,12 @@ With it, you can select to either always display all tags or subscriptions in th
 
 - Fixed few bugs
 
-# <a id="v0.15.1">0.15.1 - Article list customization (Nov 19, 2016)</a>
+# <a id="v0.15.1">0.15.1</a>
+- Fixed incorrect positioning of image when selected middle placement
+- Fixed "Load images on Wi-Fi only" setting breaking customization preview screen
+- Fixed images not appearing after opening application from background
+
+# <a id="v0.15.0">0.15.0 - Article list customization (Nov 19, 2016)</a>
 ## Features
 
 - Articles list appearance customization. This is a huge change so if you find any issues or have ideas for improvements then please contact me. You can find all of the customization options under **Settings > Appearance > Articles look**.
@@ -334,10 +379,6 @@ With it, you can select to either always display all tags or subscriptions in th
 - Fixed crash after marking all articles as read
 
 # <a id="v0.14.4">0.14.4 - Full content toggle (Nov 2, 2016)</a>
-This is just a small bug fix update. For more information see the changelog for a previous version if you didn't see it already: https://trello.com/c/YX90sKbQ
-
-___
-
 ## Features
 
 - Set tags can now be selected as a gesture action for articles
@@ -354,7 +395,18 @@ This is done with a temporary workaround required because of some changes in and
 
 - Fixed header image progress wheel not disappearing when header tinting is disabled
 
-# <a id="v0.14.3">0.14.3 - Polish translation (Oct 29, 2016)</a>
+# <a id="v0.14.3">0.14.3</a>
+- Updated translations
+- Fixed bold tags in message dialogs in Polish translation
+- Fixed incorrect title of view subscription action
+
+# <a id="v0.14.2">0.14.2</a>
+- Fixed font size loading incorrectly
+
+# <a id="v0.14.1">0.14.1</a>
+- Fixed some settings missing their default values
+
+# <a id="v0.14.0">0.14.0 - Polish translation (Oct 29, 2016)</a>
 ## Features
 
 - Polish translation
@@ -721,7 +773,6 @@ It is now possible to remove any selected account which works just like logging 
 
 # <a id="v0.7.0">0.7.0 - Actions customization (Jun 1, 2016)</a>
 The version which finally implements the main component of this application called customizability. You are now able to specify what happens when performing gestures on articles and floating action buttons. 
-___
 
 #### Features 
 
@@ -766,7 +817,6 @@ It was very easy for it to work incorrectly and the gain in having it available 
 
 # <a id="v0.6.2">0.6.2 - Subscription management polish (May 21, 2016)</a>
 Another version which focuses on improving the subscriptions and folders management screen. This time the primary improvements are listening to users sort order when displaying subscriptions and highlight of currently viewed items in the navigation drawer. 
-___
 
 #### Features 
 - Subscriptions are now appearing in correct order specified by user
@@ -794,8 +844,6 @@ ___
 
 # <a id="v0.6.1">0.6.1 - Folders (May 13, 2016)</a>
 This version brings more improvements to the subscription management screen, focusing mostly on folders and tags.
-
-___
 
 #### Features:
 
@@ -832,7 +880,7 @@ ___
 This version focuses on subscriptions and folders. Now you are able to see in which folder each subscription is located and also load articles that come only from single subscription. 
 
 Another big new feature is option to see read articles. This comes with few easy ways to switch between whether they are loaded or not and also remove all read items currently loaded. 
-___ 
+
 - **View articles only from specific subscription**
 - **See subscriptions and their unread counts in navigation drawer**
 - **View read articles**
@@ -863,8 +911,6 @@ ___
 # <a id="v0.5.0">0.5.0 - Color customization (Mar 29, 2016)</a>
 This versions brings new color customization settings and a new feature which colors background behind article titles to use colors extracted from images. 
 
-___
-
 - **Colored article content headers**
  - Article content looks now much better thanks to the improved look of headers which can automatically use colors extracted from images. 
 - Dark blue theme
@@ -890,7 +936,6 @@ ___
 # <a id="v0.4.0">0.4.0 - View pager and automatic night mode (Mar 19, 2016)</a>
 This version adds new way to navigate between articles from within the article details activity. In addition there is now support for automatic night mode that changes theme based on time of the day. The header in article details was also improved.
 
-___
 - **Horizontal articles navigation**
   - Loads more articles when you reach far right
   - Makes sure to go to current position after returning to main feed
@@ -921,8 +966,6 @@ ___
 # <a id="v0.2.0">0.2.0 - Theming and subscriptions list (Mar 11, 2016)</a>
 Improved look and basic subscription list.
 
-___
-
 Features:
 
 - Look improvements to follow material design guidelines
@@ -937,8 +980,6 @@ Features:
 
 # <a id="v0.1.0">0.1.0 - The beginning (Mar 6, 2016)</a>
 First private version of the application. 
-
-___
 
 Main features:
 
