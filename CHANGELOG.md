@@ -25,35 +25,35 @@
 
 # **Updates history**
 
-- [0.20.2](#v0.20.2)
-- [0.20.1](#v0.20.1)
+- _[0.20.2 - Mark as read button fix](#v0.20.2)_
+- _[0.20.1 - Settings resetting fix](#v0.20.1)_
 - [0.20.0 - Tablet layout](#v0.20.0)
-- [0.19.5 - Subscriptions search fix](#v0.19.5)
-- [0.19.4 - Reappearing ads fix](#v0.19.4)
+- _[0.19.5 - Subscriptions search fix](#v0.19.5)_
+- _[0.19.4 - Reappearing ads fix](#v0.19.4)_
 - [0.19.3 - Bug fixes and minor features](#v0.19.3)
-- [0.19.2](#v0.19.2)
-- [0.19.1](#v0.19.1)
+- _[0.19.2 - Setting changing fix](#v0.19.2)_
+- _[0.19.1 - Translations update](#v0.19.1)_
 - [0.19.0 - Subscriptions navigation](#v0.19.0)
 - [0.18.5 - Freeze fix](#v0.18.5)
 - [0.18.4 - Article time fix](#v0.18.4)
 - [0.18.3 - Article content rendering fix](#v0.18.3)
-- [0.18.2](#v0.18.2)
-- [0.18.1](#v0.18.1)
+- _[0.18.2 - Toolbar behavior fix](#v0.18.2)_
+- _[0.18.1 - Article events fixes](#v0.18.1)_
 - [0.18.0 - Font customization](#v0.18.0)
-- [0.17.5](#v0.17.5)
+- _[0.17.5 - Full content loading crash fix](#v0.17.5)_
 - [0.17.4 - Colorful scroll edges](#v0.17.4)
-- [0.17.3 - Android Nougat crash fix](#v0.17.3)
-- [0.17.2](#v0.17.2)
-- [0.17.1](#v0.17.1)
+- _[0.17.3 - Android Nougat crash fix](#v0.17.3)_
+- _[0.17.2 - Toolbar fixes](#v0.17.2)_
+- _[0.17.1 - Rotation crash fix](#v0.17.1)_
 - [0.17.0 - Toolbar unread counter](#v0.17.0)
-- [0.16.1 - Performance fix](#v0.16.1)
+- _[0.16.1 - Performance fix](#v0.16.1)_
 - [0.16.0 - Article starring](#v0.16.0)
-- [0.15.1](#v0.15.1)
+- _[0.15.1 - Images fixes](#v0.15.1)_
 - [0.15.0 - Article list customization](#v0.15.0)
 - [0.14.4 - Full content toggle](#v0.14.4)
-- [0.14.3](#v0.14.3)
-- [0.14.2](#v0.14.2)
-- [0.14.1](#v0.14.1)
+- _[0.14.3 - Translation fixes](#v0.14.3)_
+- _[0.14.2 - Font size fix](#v0.14.2)_
+- _[0.14.1 - Setting defaults fix](#v0.14.1)_
 - [0.14.0 - Polish translation](#v0.14.0)
 - [0.13.1 - Font size](#v0.13.1)
 - [0.13.0 - Search screen](#v0.13.0)
@@ -78,11 +78,11 @@
 - [0.2.0 - Theming and subscriptions list](#v0.2.0)
 - [0.1.0 - The beginning](#v0.1.0)
 
-# <a id="v0.20.2">0.20.2</a>
+# <a id="v0.20.2">_0.20.2 - Mark as read button fix_</a>
 - Fixed incorrect updating of mark as read button
 - Fixed Chinese language not working in language setting
 
-# <a id="v0.20.1">0.20.1</a>
+# <a id="v0.20.1">_0.20.1 - Settings resetting fix_</a>
 - Fixed all settings getting reset to default values
 
 # <a id="v0.20.0">0.20.0 - Tablet layout (Jun 19, 2017)</a>
@@ -108,10 +108,10 @@
 - Fixed issues with launching image screen not always working
 - Many smaller bug and crash fixes
 
-# <a id="v0.19.5">0.19.5 - Subscriptions search fix (May 3, 2017)</a>
+# <a id="v0.19.5">_0.19.5 - Subscriptions search fix (May 3, 2017)_</a>
 - Fixed subscriptions search
 
-# <a id="v0.19.4">0.19.4 - Reappearing ads fix (Apr 21, 2017)</a>
+# <a id="v0.19.4">_0.19.4 - Reappearing ads fix (Apr 21, 2017)_</a>
 - Fixed reappearing ads when resetting settings
 
 # <a id="v0.19.3">0.19.3 - Bug fixes and minor features (Apr 19, 2017)</a>
@@ -135,10 +135,10 @@
 - Articles list is no longer scrolled if you return from content screen without changing article
 - Fixed TeslaUnread counter not getting updated when marking all articles as read and leaving application 
 
-# <a id="v0.19.2">0.19.2</a>
+# <a id="v0.19.2">_0.19.2 - Setting changing fix_</a>
 - Fixed possibility of being unable to change some settings
 
-# <a id="v0.19.1">0.19.1</a>
+# <a id="v0.19.1">_0.19.1 - Translations update_</a>
 - Updated translations
 
 # <a id="v0.19.0">0.19.0 - Subscriptions navigation (Mar 30, 2017)</a>
@@ -171,10 +171,10 @@
 # <a id="v0.18.3">0.18.3</a>
 - Fixed article content not rendering on some devices
 
-# <a id="v0.18.2">0.18.2</a>
+# <a id="v0.18.2">_0.18.2 - Toolbar behavior fix_</a>
 - Fixed toolbar behavior with auto-hide disabled
 
-# <a id="v0.18.1">0.18.1</a>
+# <a id="v0.18.1">_0.18.1 - Article events fixes_</a>
 - Fixed article gestures and fab events
 
 # <a id="v0.18.0">0.18.0 - Font customization (Feb 12, 2017)</a>
@@ -219,7 +219,7 @@ Another improvement coming from this change is the fixed handling of multiple fi
 - Fixed crash when quickly navigating between articles
 - Fixed some setting applying issues
 
-# <a id="v0.17.5">0.17.5</a>
+# <a id="v0.17.5">_0.17.5 - Full content loading crash fix_</a>
 - Fixed crashes when loading full content
 
 # <a id="v0.17.4">0.17.4 - Colorful scroll edges (Jan 29, 2017)</a>
@@ -256,7 +256,7 @@ Made the link in long-press actions menu selectable so you cal freely copy just 
 - Fixed sliders in settings not changing when modifying accent color
 - Fixed some issues with loading unread counts
 
-# <a id="v0.17.3">0.17.3 - Android Nougat crash fix (Jan 23, 2017)</a>
+# <a id="v0.17.3">_0.17.3 - Android Nougat crash fix (Jan 23, 2017)_</a>
 This a smaller update focused on fixing crash issues on Android Nougat. It took so long due to the fact that these issues required many changes in the way how the core system of managing articles works in SwipeNews. Please report if you run into any issues with incorrectly appearing articles or similar.
 
 ## Bug fixes
@@ -265,11 +265,11 @@ This a smaller update focused on fixing crash issues on Android Nougat. It took 
 - Fixed incorrect height of toolbar in image screen
 - Fixed few memory leaks
 
-# <a id="v0.17.2">0.17.2</a>
+# <a id="v0.17.2">_0.17.2 - Toolbar fixes_</a>
 - Fixed toolbar collapsing behavior
 - Fixed toolbar peek feature not working with auto-hide enabled
 
-# <a id="v0.17.1">0.17.1</a>
+# <a id="v0.17.1">_0.17.1 - Rotation crash fix_</a>
 - Fixed crash when rotating device
 
 # <a id="v0.17.0">0.17.0 - Toolbar unread counter (Jan 11, 2017)</a>
@@ -320,7 +320,7 @@ All of these options are disabled by default.
 - Fixed text wrapping issues in lists
 - Fixed issue where some articles were changing font size of their content
 
-# <a id="v0.16.1">0.16.1 - Performance fix (Dec 31, 2016)</a>
+# <a id="v0.16.1">_0.16.1 - Performance fix (Dec 31, 2016)_</a>
 This update brings only a single but very important change:
 
 **Fixed terrible performance drop introduced in the latest version.**
@@ -349,7 +349,7 @@ With it, you can select to either always display all tags or subscriptions in th
 
 - Fixed few bugs
 
-# <a id="v0.15.1">0.15.1</a>
+# <a id="v0.15.1">_0.15.1 - Images fixes_</a>
 - Fixed incorrect positioning of image when selected middle placement
 - Fixed "Load images on Wi-Fi only" setting breaking customization preview screen
 - Fixed images not appearing after opening application from background
@@ -395,15 +395,15 @@ This is done with a temporary workaround required because of some changes in and
 
 - Fixed header image progress wheel not disappearing when header tinting is disabled
 
-# <a id="v0.14.3">0.14.3</a>
+# <a id="v0.14.3">_0.14.3 - Translation fixes_</a>
 - Updated translations
 - Fixed bold tags in message dialogs in Polish translation
 - Fixed incorrect title of view subscription action
 
-# <a id="v0.14.2">0.14.2</a>
+# <a id="v0.14.2">_0.14.2 - Font size fix_</a>
 - Fixed font size loading incorrectly
 
-# <a id="v0.14.1">0.14.1</a>
+# <a id="v0.14.1">_0.14.1 - Setting defaults fix_</a>
 - Fixed some settings missing their default values
 
 # <a id="v0.14.0">0.14.0 - Polish translation (Oct 29, 2016)</a>
