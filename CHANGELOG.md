@@ -25,64 +25,66 @@
 
 # **Updates history**
 
-- _[0.20.2 - Mark as read button fix](#v0.20.2)_
-- _[0.20.1 - Settings resetting fix](#v0.20.1)_
-- [0.20.0 - Tablet layout](#v0.20.0)
-- _[0.19.5 - Subscriptions search fix](#v0.19.5)_
-- _[0.19.4 - Reappearing ads fix](#v0.19.4)_
-- [0.19.3 - Bug fixes and minor features](#v0.19.3)
-- _[0.19.2 - Setting changing fix](#v0.19.2)_
-- _[0.19.1 - Translations update](#v0.19.1)_
-- [0.19.0 - Subscriptions navigation](#v0.19.0)
-- [0.18.5 - Freeze fix](#v0.18.5)
-- [0.18.4 - Article time fix](#v0.18.4)
-- [0.18.3 - Article content rendering fix](#v0.18.3)
-- _[0.18.2 - Toolbar behavior fix](#v0.18.2)_
-- _[0.18.1 - Article events fixes](#v0.18.1)_
-- [0.18.0 - Font customization](#v0.18.0)
-- _[0.17.5 - Full content loading crash fix](#v0.17.5)_
-- [0.17.4 - Colorful scroll edges](#v0.17.4)
-- _[0.17.3 - Android Nougat crash fix](#v0.17.3)_
-- _[0.17.2 - Toolbar fixes](#v0.17.2)_
-- _[0.17.1 - Rotation crash fix](#v0.17.1)_
-- [0.17.0 - Toolbar unread counter](#v0.17.0)
-- _[0.16.1 - Performance fix](#v0.16.1)_
-- [0.16.0 - Article starring](#v0.16.0)
-- _[0.15.1 - Images fixes](#v0.15.1)_
-- [0.15.0 - Article list customization](#v0.15.0)
-- [0.14.4 - Full content toggle](#v0.14.4)
-- _[0.14.3 - Translation fixes](#v0.14.3)_
-- _[0.14.2 - Font size fix](#v0.14.2)_
-- _[0.14.1 - Setting defaults fix](#v0.14.1)_
-- [0.14.0 - Polish translation](#v0.14.0)
-- [0.13.1 - Font size](#v0.13.1)
-- [0.13.0 - Search screen](#v0.13.0)
-- [0.12.0 - Readability mode](#v0.12.0)
-- [0.11.3 - FAB animations](#v0.11.3)
-- [0.11.2 - Premium color picker](#v0.11.2)
-- [0.11.1 - Clean up and error handling](#v0.11.1)
-- [0.11.0 - Appearance details](#v0.11.0)
-- [0.10.3 - Premium](#v0.10.3)
-- [0.10.2 - Advertisements](#v0.10.2)
-- [0.10.1 - SwipeActionView separation](#v0.10.1)
-- [0.10.0 - Image viewer](#v0.10.0)
-- [0.9.0 - Application information screens](#v0.9.0)
-- [0.8.0 - Feedly integration](#v0.8.0)
-- [0.7.0 - Actions customization](#v0.7.0)
-- [0.6.2 - Subscription management polish](#v0.6.2)
-- [0.6.1 - Folders](#v0.6.1)
-- [0.6.0 - Subscriptions](#v0.6.0)
-- [0.5.0 - Color customization](#v0.5.0)
-- [0.4.0 - View pager and automatic night mode](#v0.4.0)
-- [0.3.0 - Long press actions](#v0.3.0)
-- [0.2.0 - Theming and subscriptions list](#v0.2.0)
-- [0.1.0 - The beginning](#v0.1.0)
+- _[0.20.2 - Mark as read button fix (Jun 19, 2017)](#v0.20.2)_
+- _[0.20.1 - Settings resetting fix (Jun 19, 2017)](#v0.20.1)_
+- [0.20.0 - Tablet layout (Jun 19, 2017)](#v0.20.0)
+- _[0.19.5 - Subscriptions search fix (May 3, 2017)](#v0.19.5)_
+- _[0.19.4 - Reappearing ads fix (Apr 21, 2017)](#v0.19.4)_
+- [0.19.3 - Bug fixes and minor features (Apr 19, 2017)](#v0.19.3)
+- _[0.19.2 - Setting changing fix (Mar 30, 2017)](#v0.19.2)_
+- _[0.19.1 - Translations update (Mar 30, 2017)](#v0.19.1)_
+- [0.19.0 - Subscriptions navigation (Mar 30, 2017)](#v0.19.0)
+- _[0.18.5 - Freeze fix (Feb 15, 2017)](#v0.18.5)_
+- _[0.18.4 - Article time fix (Feb 14, 2017)](#v0.18.4)_
+- _[0.18.3 - Article content rendering fix (Feb 13, 2017)](#v0.18.3)_
+- _[0.18.2 - Toolbar behavior fix (Feb 11, 2017)](#v0.18.2)_
+- _[0.18.1 - Article events fixes (Feb 11, 2017)](#v0.18.1)_
+- [0.18.0 - Font customization (Feb 10, 2017)](#v0.18.0)
+- _[0.17.5 - Full content loading crash fix (Jan 29, 2017)](#v0.17.5)_
+- [0.17.4 - Colorful scroll edges (Jan 29, 2017)](#v0.17.4)
+- _[0.17.3 - Android Nougat crash fix (Jan 23, 2017)](#v0.17.3)_
+- _[0.17.2 - Toolbar fixes (Jan 11, 2017)](#v0.17.2)_
+- _[0.17.1 - Rotation crash fix (Jan 11, 2017)](#v0.17.1)_
+- [0.17.0 - Toolbar unread counter (Jan 11, 2017)](#v0.17.0)
+- _[0.16.1 - Performance fix (Dec 31, 2016)](#v0.16.1)_
+- [0.16.0 - Article starring (Dec 9, 2016)](#v0.16.0)
+- _[0.15.1 - Images fixes (Nov 19, 2016)](#v0.15.1)_
+- [0.15.0 - Article list customization (Nov 19, 2016)](#v0.15.0)
+- [0.14.4 - Full content toggle (Nov 2, 2016)](#v0.14.4)
+- _[0.14.3 - Translation fixes (Oct 30, 2016)](#v0.14.3)_
+- _[0.14.2 - Font size fix (Oct 29, 2016)](#v0.14.2)_
+- _[0.14.1 - Setting defaults fix (Oct 29, 2016)](#v0.14.1)_
+- [0.14.0 - Polish translation (Oct 29, 2016)](#v0.14.0)
+- [0.13.1 - Font size (Oct 19, 2016)](#v0.13.1)
+- [0.13.0 - Search screen (Oct 9, 2016)](#v0.13.0)
+- [0.12.0 - Readability mode (Sep 29, 2016)](#v0.12.0)
+- [0.11.3 - FAB animations (Sep 24, 2016)](#v0.11.3)
+- [0.11.2 - Premium color picker (Sep 21, 2016)](#v0.11.2)
+- [0.11.1 - Clean up and error handling (Sep 19, 2016)](#v0.11.1)
+- [0.11.0 - Appearance details (Sep 12, 2016)](#v0.11.0)
+- [0.10.3 - Premium (Aug 29, 2016)](#v0.10.3)
+- [0.10.2 - Advertisements (Aug 22, 2016)](#v0.10.2)
+- [0.10.1 - SwipeActionView separation (Aug 17, 2016)](#v0.10.1)
+- [0.10.0 - Image viewer (Jul 30, 2016)](#v0.10.0)
+- [0.9.0 - Application information screens (Jul 17, 2016)](#v0.9.0)
+- [0.8.0 - Feedly integration (Jul 6, 2016)](#v0.8.0)
+- [0.7.0 - Actions customization (Jun 1, 2016)](#v0.7.0)
+- [0.6.2 - Subscription management polish (May 21, 2016)](#v0.6.2)
+- [0.6.1 - Folders (May 13, 2016)](#v0.6.1)
+- [0.6.0 - Subscriptions (Apr 21, 2016)](#v0.6.0)
+- [0.5.0 - Color customization (Mar 29, 2016)](#v0.5.0)
+- [0.4.0 - View pager and automatic night mode (Mar 19, 2016)](#v0.4.0)
+- [0.3.0 - Long press actions (Mar 15, 2016)](#v0.3.0)
+- [0.2.0 - Theming and subscriptions list (Mar 11, 2016)](#v0.2.0)
+- [0.1.0 - The beginning (Mar 6, 2016)](#v0.1.0)
 
-# <a id="v0.20.2">_0.20.2 - Mark as read button fix_</a>
+___
+
+# <a id="v0.20.2">_0.20.2 - Mark as read button fix (Jun 19, 2017)_</a>
 - Fixed incorrect updating of mark as read button
 - Fixed Chinese language not working in language setting
 
-# <a id="v0.20.1">_0.20.1 - Settings resetting fix_</a>
+# <a id="v0.20.1">_0.20.1 - Settings resetting fix (Jun 19, 2017)_</a>
 - Fixed all settings getting reset to default values
 
 # <a id="v0.20.0">0.20.0 - Tablet layout (Jun 19, 2017)</a>
@@ -135,10 +137,10 @@
 - Articles list is no longer scrolled if you return from content screen without changing article
 - Fixed TeslaUnread counter not getting updated when marking all articles as read and leaving application 
 
-# <a id="v0.19.2">_0.19.2 - Setting changing fix_</a>
+# <a id="v0.19.2">_0.19.2 - Setting changing fix (Mar 30, 2017)_</a>
 - Fixed possibility of being unable to change some settings
 
-# <a id="v0.19.1">_0.19.1 - Translations update_</a>
+# <a id="v0.19.1">_0.19.1 - Translations update (Mar 30, 2017)_</a>
 - Updated translations
 
 # <a id="v0.19.0">0.19.0 - Subscriptions navigation (Mar 30, 2017)</a>
@@ -161,23 +163,23 @@
 - Crash when scrolling to first unread article
 - Article is not getting highlighted as read after opening it and returning
 
-# <a id="v0.18.5">0.18.5</a>
+# <a id="v0.18.5">_0.18.5 - Freeze fix (Feb 15, 2017)_</a>
 - Fixed freeze issue on some devices
 
-# <a id="v0.18.4">0.18.4</a>
+# <a id="v0.18.4">_0.18.4 - Article time fix (Feb 14, 2017)_</a>
 - Fixed incorrectly displayed time on some articles
 - Improved performance of unread counts background synchronization
 
-# <a id="v0.18.3">0.18.3</a>
+# <a id="v0.18.3">_0.18.3 - Article content rendering fix (Feb 13, 2017)_</a>
 - Fixed article content not rendering on some devices
 
-# <a id="v0.18.2">_0.18.2 - Toolbar behavior fix_</a>
+# <a id="v0.18.2">_0.18.2 - Toolbar behavior fix (Feb 11, 2017)_</a>
 - Fixed toolbar behavior with auto-hide disabled
 
-# <a id="v0.18.1">_0.18.1 - Article events fixes_</a>
+# <a id="v0.18.1">_0.18.1 - Article events fixes (Feb 11, 2017)_</a>
 - Fixed article gestures and fab events
 
-# <a id="v0.18.0">0.18.0 - Font customization (Feb 12, 2017)</a>
+# <a id="v0.18.0">0.18.0 - Font customization (Feb 10, 2017)</a>
 ## Features
 
 ### Font customization
@@ -219,7 +221,7 @@ Another improvement coming from this change is the fixed handling of multiple fi
 - Fixed crash when quickly navigating between articles
 - Fixed some setting applying issues
 
-# <a id="v0.17.5">_0.17.5 - Full content loading crash fix_</a>
+# <a id="v0.17.5">_0.17.5 - Full content loading crash fix (Jan 29, 2017)_</a>
 - Fixed crashes when loading full content
 
 # <a id="v0.17.4">0.17.4 - Colorful scroll edges (Jan 29, 2017)</a>
@@ -265,11 +267,11 @@ This a smaller update focused on fixing crash issues on Android Nougat. It took 
 - Fixed incorrect height of toolbar in image screen
 - Fixed few memory leaks
 
-# <a id="v0.17.2">_0.17.2 - Toolbar fixes_</a>
+# <a id="v0.17.2">_0.17.2 - Toolbar fixes (Jan 11, 2017)_</a>
 - Fixed toolbar collapsing behavior
 - Fixed toolbar peek feature not working with auto-hide enabled
 
-# <a id="v0.17.1">_0.17.1 - Rotation crash fix_</a>
+# <a id="v0.17.1">_0.17.1 - Rotation crash fix (Jan 11, 2017)_</a>
 - Fixed crash when rotating device
 
 # <a id="v0.17.0">0.17.0 - Toolbar unread counter (Jan 11, 2017)</a>
@@ -349,7 +351,7 @@ With it, you can select to either always display all tags or subscriptions in th
 
 - Fixed few bugs
 
-# <a id="v0.15.1">_0.15.1 - Images fixes_</a>
+# <a id="v0.15.1">_0.15.1 - Images fixes (Nov 19, 2016)_</a>
 - Fixed incorrect positioning of image when selected middle placement
 - Fixed "Load images on Wi-Fi only" setting breaking customization preview screen
 - Fixed images not appearing after opening application from background
@@ -395,15 +397,15 @@ This is done with a temporary workaround required because of some changes in and
 
 - Fixed header image progress wheel not disappearing when header tinting is disabled
 
-# <a id="v0.14.3">_0.14.3 - Translation fixes_</a>
+# <a id="v0.14.3">_0.14.3 - Translation fixes (Oct 30, 2016)_</a>
 - Updated translations
 - Fixed bold tags in message dialogs in Polish translation
 - Fixed incorrect title of view subscription action
 
-# <a id="v0.14.2">_0.14.2 - Font size fix_</a>
+# <a id="v0.14.2">_0.14.2 - Font size fix (Oct 29, 2016)_</a>
 - Fixed font size loading incorrectly
 
-# <a id="v0.14.1">_0.14.1 - Setting defaults fix_</a>
+# <a id="v0.14.1">_0.14.1 - Setting defaults fix (Oct 29, 2016)_</a>
 - Fixed some settings missing their default values
 
 # <a id="v0.14.0">0.14.0 - Polish translation (Oct 29, 2016)</a>
