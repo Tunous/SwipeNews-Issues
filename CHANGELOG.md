@@ -1,30 +1,12 @@
 # **Current version**
 
-# <a id="v0.20.3">0.20.3 - Split pane improvements (Jun 27, 2017)</a>
+# <a id="v0.20.4">0.20.4 - Full content loading crash fix (Aug 28, 2017)</a>
 
-## Improvements
-
-- (Experimental) Added option to select full content parser
-- Improved behavior of article content split pane
-  - First article is no longer selected automatically
-  - Clicking on article marks it as read
-  - When no article is selected the main screen takes full width
-  - There is now a button which allows closing split pane
-- Added support for playing videos in fullscreen
-
-## Bug fixes
-
-- Fixed crash when switching themes
-- Fixed unread counter not updating when marking articles as read in split pane
-- Fixed RTL layout in article content split pane
-
-## Other
-
-- Added dialog explaining why there is no Feedly integration
-- Updated translations
+- Fixed occasional crash when loading full content fails
 
 # **Updates history**
 
+- _[0.20.3 - Split pane improvements (Jun 27, 2017)](#v0.20.3)_
 - _[0.20.2 - Mark as read button fix (Jun 19, 2017)](#v0.20.2)_
 - _[0.20.1 - Settings resetting fix (Jun 19, 2017)](#v0.20.1)_
 - [0.20.0 - Tablet layout (Jun 19, 2017)](#v0.20.0)
@@ -79,6 +61,29 @@
 - [0.1.0 - The beginning (Mar 6, 2016)](#v0.1.0)
 
 ___
+
+# <a id="v0.20.3">0.20.3 - Split pane improvements (Jun 27, 2017)</a>
+
+## Improvements
+
+- (Experimental) Added option to select full content parser
+- Improved behavior of article content split pane
+  - First article is no longer selected automatically
+  - Clicking on article marks it as read
+  - When no article is selected the main screen takes full width
+  - There is now a button which allows closing split pane
+- Added support for playing videos in fullscreen
+
+## Bug fixes
+
+- Fixed crash when switching themes
+- Fixed unread counter not updating when marking articles as read in split pane
+- Fixed RTL layout in article content split pane
+
+## Other
+
+- Added dialog explaining why there is no Feedly integration
+- Updated translations
 
 # <a id="v0.20.2">_0.20.2 - Mark as read button fix (Jun 19, 2017)_</a>
 - Fixed incorrect updating of mark as read button
