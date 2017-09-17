@@ -25,6 +25,6 @@ If you don't have GitHub account and don't want to create one you can also send 
 [trello]: https://trello.com/b/bmBdy6v3/swipenews
 [download]: https://play.google.com/store/apps/details?id=me.thanel.swipenews
 [beta-testing]: https://play.google.com/apps/testing/me.thanel.swipenews
-[translate]: https://www.localize.im/v/vb
+[translate]: https://docs.google.com/spreadsheets/d/14x7VprNLmvh3OpAF3hnQSMLFlRtnn-1T-pewwVRBs1g/edit#gid=0
 [new-issue]: https://github.com/Tunous/SwipeNews-Issues/issues/new
 [changelog]: https://github.com/Tunous/SwipeNews-Issues/blob/master/CHANGELOG.md
