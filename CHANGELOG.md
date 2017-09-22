@@ -1,11 +1,59 @@
 # **Current version**
 
-# <a id="v0.20.4">0.20.4 - Full content loading crash fix (Aug 28, 2017)</a>
+# <a id="v0.21.0">0.21.0 (Sep 22, 2017)</a>
 
-- Fixed occasional crash when loading full content fails
+## Features
+
+- Feedbin integration - currently released under experimental status
+
+Not all features available in SwipeNews have been implemented for it and there might be some issues. It'll be polished in later updates. You can read more about what is not working [here](https://github.com/Tunous/SwipeNews-Issues/issues/20).
+
+- Customizable double-tap gesture on article content
+- Customizable Floating Action Button long-press gestures
+- Customizable article header press and long-press gestures
+- Search text functionality in article content screen
+- Option to display images in their full height (Available when image is positioned at the top, bottom or middle)
+- Auto night-mode toggle in quick theme switcher
+- Option to check for notifications only when connected to Wi-Fi
+- Support for Android O notification channels
+- New adaptive icon
+- Reworked search screen to fix issues with cut content
+- Gif animations in image viewer and header images
+
+## Improvements
+
+- More images recognized as animated
+- Moved "Mark below as read" option to be placed under "Mark above as read"
+- Images in articles list are now pre-loaded for faster display
+- Added spacing under the last item for ease of access
+- Improved spacing of article titles and subscription details in articles list
+
+## Bug fixes
+
+- Fixed more crashes when loading full content
+- Fixed bugs with coloring
+- Fixed issues with notifications
+- Fixed some of the memory leaks present in list of articles and content screen
+- Fixed about and image screens not animating when being closed
+- Fixed all read icon being cut in landscape mode
+- Transparent images now have a white background to make them readable
+- More bug and crash fixes
+
+## Other
+
+- I've created a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/14x7VprNLmvh3OpAF3hnQSMLFlRtnn-1T-pewwVRBs1g/edit#gid=0) where you can contribute translations of the app. It replaces the previously used website.
+- Multiple accounts support is now available to everyone for free
+- I've made hundreds of internal changes in the app to make it easier to add more services and some of the planned features in future
+
+These changes also help with fixing some of the long-standing issues that cause the application to crash sometimes. Note that because this is a huge change there might be some newly introduced issues. I'll be fixing them in following updates so if you experience any problems please report them to me.
+
+- I've created a new page for changelogs [here](https://github.com/Tunous/SwipeNews-Issues/blob/master/CHANGELOG.md)
+
+You can read in it all the changes that were made to the app since the first day, even before it was released to beta or alpha versions. I'll still continue to add in-app changelogs, this page only replaces versions history previously located in development Trello board.
 
 # **Updates history**
 
+- _[0.20.4 - Full content loading crash fix (Aug 28, 2017)](#v0.20.4)_
 - _[0.20.3 - Split pane improvements (Jun 27, 2017)](#v0.20.3)_
 - _[0.20.2 - Mark as read button fix (Jun 19, 2017)](#v0.20.2)_
 - _[0.20.1 - Settings resetting fix (Jun 19, 2017)](#v0.20.1)_
@@ -61,6 +109,10 @@
 - [0.1.0 - The beginning (Mar 6, 2016)](#v0.1.0)
 
 ___
+
+# <a id="v0.20.4">0.20.4 - Full content loading crash fix (Aug 28, 2017)</a>
+
+- Fixed occasional crash when loading full content fails
 
 # <a id="v0.20.3">0.20.3 - Split pane improvements (Jun 27, 2017)</a>
 
