@@ -53,68 +53,68 @@ You can read in it all the changes that were made to the app since the first day
 
 # **Updates history**
 
-- _[0.20.4 - Full content loading crash fix (Aug 28, 2017)](#v0.20.4)_
-- _[0.20.3 - Split pane improvements (Jun 27, 2017)](#v0.20.3)_
-- _[0.20.2 - Mark as read button fix (Jun 19, 2017)](#v0.20.2)_
-- _[0.20.1 - Settings resetting fix (Jun 19, 2017)](#v0.20.1)_
-- [0.20.0 - Tablet layout (Jun 19, 2017)](#v0.20.0)
-- _[0.19.5 - Subscriptions search fix (May 3, 2017)](#v0.19.5)_
-- _[0.19.4 - Reappearing ads fix (Apr 21, 2017)](#v0.19.4)_
-- [0.19.3 - Bug fixes and minor features (Apr 19, 2017)](#v0.19.3)
-- _[0.19.2 - Setting changing fix (Mar 30, 2017)](#v0.19.2)_
-- _[0.19.1 - Translations update (Mar 30, 2017)](#v0.19.1)_
-- [0.19.0 - Subscriptions navigation (Mar 30, 2017)](#v0.19.0)
-- _[0.18.5 - Freeze fix (Feb 15, 2017)](#v0.18.5)_
-- _[0.18.4 - Article time fix (Feb 14, 2017)](#v0.18.4)_
-- _[0.18.3 - Article content rendering fix (Feb 13, 2017)](#v0.18.3)_
-- _[0.18.2 - Toolbar behavior fix (Feb 11, 2017)](#v0.18.2)_
-- _[0.18.1 - Article events fixes (Feb 11, 2017)](#v0.18.1)_
-- [0.18.0 - Font customization (Feb 10, 2017)](#v0.18.0)
-- _[0.17.5 - Full content loading crash fix (Jan 29, 2017)](#v0.17.5)_
-- [0.17.4 - Colorful scroll edges (Jan 29, 2017)](#v0.17.4)
-- _[0.17.3 - Android Nougat crash fix (Jan 23, 2017)](#v0.17.3)_
-- _[0.17.2 - Toolbar fixes (Jan 11, 2017)](#v0.17.2)_
-- _[0.17.1 - Rotation crash fix (Jan 11, 2017)](#v0.17.1)_
-- [0.17.0 - Toolbar unread counter (Jan 11, 2017)](#v0.17.0)
-- _[0.16.1 - Performance fix (Dec 31, 2016)](#v0.16.1)_
-- [0.16.0 - Article starring (Dec 9, 2016)](#v0.16.0)
-- _[0.15.1 - Images fixes (Nov 19, 2016)](#v0.15.1)_
-- [0.15.0 - Article list customization (Nov 19, 2016)](#v0.15.0)
-- [0.14.4 - Full content toggle (Nov 2, 2016)](#v0.14.4)
-- _[0.14.3 - Translation fixes (Oct 30, 2016)](#v0.14.3)_
-- _[0.14.2 - Font size fix (Oct 29, 2016)](#v0.14.2)_
-- _[0.14.1 - Setting defaults fix (Oct 29, 2016)](#v0.14.1)_
-- [0.14.0 - Polish translation (Oct 29, 2016)](#v0.14.0)
-- [0.13.1 - Font size (Oct 19, 2016)](#v0.13.1)
-- [0.13.0 - Search screen (Oct 9, 2016)](#v0.13.0)
-- [0.12.0 - Readability mode (Sep 29, 2016)](#v0.12.0)
-- [0.11.3 - FAB animations (Sep 24, 2016)](#v0.11.3)
-- [0.11.2 - Premium color picker (Sep 21, 2016)](#v0.11.2)
-- [0.11.1 - Clean up and error handling (Sep 19, 2016)](#v0.11.1)
-- [0.11.0 - Appearance details (Sep 12, 2016)](#v0.11.0)
-- [0.10.3 - Premium (Aug 29, 2016)](#v0.10.3)
-- [0.10.2 - Advertisements (Aug 22, 2016)](#v0.10.2)
-- [0.10.1 - SwipeActionView separation (Aug 17, 2016)](#v0.10.1)
-- [0.10.0 - Image viewer (Jul 30, 2016)](#v0.10.0)
-- [0.9.0 - Application information screens (Jul 17, 2016)](#v0.9.0)
-- [0.8.0 - Feedly integration (Jul 6, 2016)](#v0.8.0)
-- [0.7.0 - Actions customization (Jun 1, 2016)](#v0.7.0)
-- [0.6.2 - Subscription management polish (May 21, 2016)](#v0.6.2)
-- [0.6.1 - Folders (May 13, 2016)](#v0.6.1)
-- [0.6.0 - Subscriptions (Apr 21, 2016)](#v0.6.0)
-- [0.5.0 - Color customization (Mar 29, 2016)](#v0.5.0)
-- [0.4.0 - View pager and automatic night mode (Mar 19, 2016)](#v0.4.0)
-- [0.3.0 - Long press actions (Mar 15, 2016)](#v0.3.0)
-- [0.2.0 - Theming and subscriptions list (Mar 11, 2016)](#v0.2.0)
-- [0.1.0 - The beginning (Mar 6, 2016)](#v0.1.0)
+- [0.20.4 (Aug 28, 2017)](#v0.20.4)
+- [0.20.3 (Jun 27, 2017)](#v0.20.3)
+- [0.20.2 (Jun 19, 2017)](#v0.20.2)
+- [0.20.1 (Jun 19, 2017)](#v0.20.1)
+- [0.20.0 (Jun 19, 2017)](#v0.20.0)
+- [0.19.5 (May 3, 2017)](#v0.19.5)
+- [0.19.4 (Apr 21, 2017)](#v0.19.4)
+- [0.19.3 (Apr 19, 2017)](#v0.19.3)
+- [0.19.2 (Mar 30, 2017)](#v0.19.2)
+- [0.19.1 (Mar 30, 2017)](#v0.19.1)
+- [0.19.0 (Mar 30, 2017)](#v0.19.0)
+- [0.18.5 (Feb 15, 2017)](#v0.18.5)
+- [0.18.4 (Feb 14, 2017)](#v0.18.4)
+- [0.18.3 (Feb 13, 2017)](#v0.18.3)
+- [0.18.2 (Feb 11, 2017)](#v0.18.2)
+- [0.18.1 (Feb 11, 2017)](#v0.18.1)
+- [0.18.0 (Feb 10, 2017)](#v0.18.0)
+- [0.17.5 (Jan 29, 2017)](#v0.17.5)
+- [0.17.4 (Jan 29, 2017)](#v0.17.4)
+- [0.17.3 (Jan 23, 2017)](#v0.17.3)
+- [0.17.2 (Jan 11, 2017)](#v0.17.2)
+- [0.17.1 (Jan 11, 2017)](#v0.17.1)
+- [0.17.0 (Jan 11, 2017)](#v0.17.0)
+- [0.16.1 (Dec 31, 2016)](#v0.16.1)
+- [0.16.0 (Dec 9, 2016)](#v0.16.0)
+- [0.15.1 (Nov 19, 2016)](#v0.15.1)
+- [0.15.0 (Nov 19, 2016)](#v0.15.0)
+- [0.14.4 (Nov 2, 2016)](#v0.14.4)
+- [0.14.3 (Oct 30, 2016)](#v0.14.3)
+- [0.14.2 (Oct 29, 2016)](#v0.14.2)
+- [0.14.1 (Oct 29, 2016)](#v0.14.1)
+- [0.14.0 (Oct 29, 2016)](#v0.14.0)
+- [0.13.1 (Oct 19, 2016)](#v0.13.1)
+- [0.13.0 (Oct 9, 2016)](#v0.13.0)
+- [0.12.0 (Sep 29, 2016)](#v0.12.0)
+- [0.11.3 (Sep 24, 2016)](#v0.11.3)
+- [0.11.2 (Sep 21, 2016)](#v0.11.2)
+- [0.11.1 (Sep 19, 2016)](#v0.11.1)
+- [0.11.0 (Sep 12, 2016)](#v0.11.0)
+- [0.10.3 (Aug 29, 2016)](#v0.10.3)
+- [0.10.2 (Aug 22, 2016)](#v0.10.2)
+- [0.10.1 (Aug 17, 2016)](#v0.10.1)
+- [0.10.0 (Jul 30, 2016)](#v0.10.0)
+- [0.9.0 (Jul 17, 2016)](#v0.9.0)
+- [0.8.0 (Jul 6, 2016)](#v0.8.0)
+- [0.7.0 (Jun 1, 2016)](#v0.7.0)
+- [0.6.2 (May 21, 2016)](#v0.6.2)
+- [0.6.1 (May 13, 2016)](#v0.6.1)
+- [0.6.0 (Apr 21, 2016)](#v0.6.0)
+- [0.5.0 (Mar 29, 2016)](#v0.5.0)
+- [0.4.0 (Mar 19, 2016)](#v0.4.0)
+- [0.3.0 (Mar 15, 2016)](#v0.3.0)
+- [0.2.0 (Mar 11, 2016)](#v0.2.0)
+- [0.1.0 (Mar 6, 2016)](#v0.1.0)
 
 ___
 
-# <a id="v0.20.4">0.20.4 - Full content loading crash fix (Aug 28, 2017)</a>
+# <a id="v0.20.4">0.20.4 (Aug 28, 2017)</a>
 
 - Fixed occasional crash when loading full content fails
 
-# <a id="v0.20.3">0.20.3 - Split pane improvements (Jun 27, 2017)</a>
+# <a id="v0.20.3">0.20.3 (Jun 27, 2017)</a>
 
 ## Improvements
 
@@ -137,14 +137,14 @@ ___
 - Added dialog explaining why there is no Feedly integration
 - Updated translations
 
-# <a id="v0.20.2">_0.20.2 - Mark as read button fix (Jun 19, 2017)_</a>
+# <a id="v0.20.2">0.20.2 (Jun 19, 2017)</a>
 - Fixed incorrect updating of mark as read button
 - Fixed Chinese language not working in language setting
 
-# <a id="v0.20.1">_0.20.1 - Settings resetting fix (Jun 19, 2017)_</a>
+# <a id="v0.20.1">0.20.1 (Jun 19, 2017)</a>
 - Fixed all settings getting reset to default values
 
-# <a id="v0.20.0">0.20.0 - Tablet layout (Jun 19, 2017)</a>
+# <a id="v0.20.0">0.20.0 (Jun 19, 2017)</a>
 ## Features
 
 - Split screen tablet layout
@@ -167,13 +167,13 @@ ___
 - Fixed issues with launching image screen not always working
 - Many smaller bug and crash fixes
 
-# <a id="v0.19.5">_0.19.5 - Subscriptions search fix (May 3, 2017)_</a>
+# <a id="v0.19.5">0.19.5 (May 3, 2017)</a>
 - Fixed subscriptions search
 
-# <a id="v0.19.4">_0.19.4 - Reappearing ads fix (Apr 21, 2017)_</a>
+# <a id="v0.19.4">0.19.4 (Apr 21, 2017)</a>
 - Fixed reappearing ads when resetting settings
 
-# <a id="v0.19.3">0.19.3 - Bug fixes and minor features (Apr 19, 2017)</a>
+# <a id="v0.19.3">0.19.3 (Apr 19, 2017)</a>
 ## Features
 
 - RSS links handling - Now when you navigate to RSS feed links from browser you will be automatically redirected to SwipeNews where you can subscribe to them
@@ -194,13 +194,13 @@ ___
 - Articles list is no longer scrolled if you return from content screen without changing article
 - Fixed TeslaUnread counter not getting updated when marking all articles as read and leaving application 
 
-# <a id="v0.19.2">_0.19.2 - Setting changing fix (Mar 30, 2017)_</a>
+# <a id="v0.19.2">0.19.2 (Mar 30, 2017)</a>
 - Fixed possibility of being unable to change some settings
 
-# <a id="v0.19.1">_0.19.1 - Translations update (Mar 30, 2017)_</a>
+# <a id="v0.19.1">0.19.1 (Mar 30, 2017)</a>
 - Updated translations
 
-# <a id="v0.19.0">0.19.0 - Subscriptions navigation (Mar 30, 2017)</a>
+# <a id="v0.19.0">0.19.0 (Mar 30, 2017)</a>
 ## Features
 - Subscriptions list as default screen
 - Option to disable header images in article content screen
@@ -220,23 +220,23 @@ ___
 - Crash when scrolling to first unread article
 - Article is not getting highlighted as read after opening it and returning
 
-# <a id="v0.18.5">_0.18.5 - Freeze fix (Feb 15, 2017)_</a>
+# <a id="v0.18.5">0.18.5 (Feb 15, 2017)</a>
 - Fixed freeze issue on some devices
 
-# <a id="v0.18.4">_0.18.4 - Article time fix (Feb 14, 2017)_</a>
+# <a id="v0.18.4">0.18.4 (Feb 14, 2017)</a>
 - Fixed incorrectly displayed time on some articles
 - Improved performance of unread counts background synchronization
 
-# <a id="v0.18.3">_0.18.3 - Article content rendering fix (Feb 13, 2017)_</a>
+# <a id="v0.18.3">0.18.3 (Feb 13, 2017)</a>
 - Fixed article content not rendering on some devices
 
-# <a id="v0.18.2">_0.18.2 - Toolbar behavior fix (Feb 11, 2017)_</a>
+# <a id="v0.18.2">0.18.2 (Feb 11, 2017)</a>
 - Fixed toolbar behavior with auto-hide disabled
 
-# <a id="v0.18.1">_0.18.1 - Article events fixes (Feb 11, 2017)_</a>
+# <a id="v0.18.1">0.18.1 (Feb 11, 2017)</a>
 - Fixed article gestures and fab events
 
-# <a id="v0.18.0">0.18.0 - Font customization (Feb 10, 2017)</a>
+# <a id="v0.18.0">0.18.0 (Feb 10, 2017)</a>
 ## Features
 
 ### Font customization
@@ -278,10 +278,10 @@ Another improvement coming from this change is the fixed handling of multiple fi
 - Fixed crash when quickly navigating between articles
 - Fixed some setting applying issues
 
-# <a id="v0.17.5">_0.17.5 - Full content loading crash fix (Jan 29, 2017)_</a>
+# <a id="v0.17.5">0.17.5 (Jan 29, 2017)</a>
 - Fixed crashes when loading full content
 
-# <a id="v0.17.4">0.17.4 - Colorful scroll edges (Jan 29, 2017)</a>
+# <a id="v0.17.4">0.17.4 (Jan 29, 2017)</a>
 ## Improvements
 
 ### Colorful scroll edges
@@ -315,7 +315,7 @@ Made the link in long-press actions menu selectable so you cal freely copy just 
 - Fixed sliders in settings not changing when modifying accent color
 - Fixed some issues with loading unread counts
 
-# <a id="v0.17.3">_0.17.3 - Android Nougat crash fix (Jan 23, 2017)_</a>
+# <a id="v0.17.3">0.17.3 (Jan 23, 2017)</a>
 This a smaller update focused on fixing crash issues on Android Nougat. It took so long due to the fact that these issues required many changes in the way how the core system of managing articles works in SwipeNews. Please report if you run into any issues with incorrectly appearing articles or similar.
 
 ## Bug fixes
@@ -324,14 +324,14 @@ This a smaller update focused on fixing crash issues on Android Nougat. It took 
 - Fixed incorrect height of toolbar in image screen
 - Fixed few memory leaks
 
-# <a id="v0.17.2">_0.17.2 - Toolbar fixes (Jan 11, 2017)_</a>
+# <a id="v0.17.2">0.17.2 (Jan 11, 2017)</a>
 - Fixed toolbar collapsing behavior
 - Fixed toolbar peek feature not working with auto-hide enabled
 
-# <a id="v0.17.1">_0.17.1 - Rotation crash fix (Jan 11, 2017)_</a>
+# <a id="v0.17.1">0.17.1 (Jan 11, 2017)</a>
 - Fixed crash when rotating device
 
-# <a id="v0.17.0">0.17.0 - Toolbar unread counter (Jan 11, 2017)</a>
+# <a id="v0.17.0">0.17.0 (Jan 11, 2017)</a>
 ## Features
 
 ### Unread articles count in toolbar
@@ -379,14 +379,14 @@ All of these options are disabled by default.
 - Fixed text wrapping issues in lists
 - Fixed issue where some articles were changing font size of their content
 
-# <a id="v0.16.1">_0.16.1 - Performance fix (Dec 31, 2016)_</a>
+# <a id="v0.16.1">0.16.1 (Dec 31, 2016)</a>
 This update brings only a single but very important change:
 
 **Fixed terrible performance drop introduced in the latest version.**
 
  I found out that I've accidentally created an infinite loop on the main screen which was slowing down the whole application. I'm really sorry for that. Hopefully, SwipeNews should be as fast as before.
 
-# <a id="v0.16.0">0.16.0 - Article starring (Dec 9, 2016)</a>
+# <a id="v0.16.0">0.16.0 (Dec 9, 2016)</a>
 ## Features
 
 - Article starring
@@ -408,12 +408,12 @@ With it, you can select to either always display all tags or subscriptions in th
 
 - Fixed few bugs
 
-# <a id="v0.15.1">_0.15.1 - Images fixes (Nov 19, 2016)_</a>
+# <a id="v0.15.1">0.15.1 (Nov 19, 2016)</a>
 - Fixed incorrect positioning of image when selected middle placement
 - Fixed "Load images on Wi-Fi only" setting breaking customization preview screen
 - Fixed images not appearing after opening application from background
 
-# <a id="v0.15.0">0.15.0 - Article list customization (Nov 19, 2016)</a>
+# <a id="v0.15.0">0.15.0 (Nov 19, 2016)</a>
 ## Features
 
 - Articles list appearance customization. This is a huge change so if you find any issues or have ideas for improvements then please contact me. You can find all of the customization options under **Settings > Appearance > Articles look**.
@@ -437,7 +437,7 @@ With it, you can select to either always display all tags or subscriptions in th
 - Fixed being unable to toggle toolbar in full-screen image when it failed to load
 - Fixed crash after marking all articles as read
 
-# <a id="v0.14.4">0.14.4 - Full content toggle (Nov 2, 2016)</a>
+# <a id="v0.14.4">0.14.4 (Nov 2, 2016)</a>
 ## Features
 
 - Set tags can now be selected as a gesture action for articles
@@ -454,18 +454,18 @@ This is done with a temporary workaround required because of some changes in and
 
 - Fixed header image progress wheel not disappearing when header tinting is disabled
 
-# <a id="v0.14.3">_0.14.3 - Translation fixes (Oct 30, 2016)_</a>
+# <a id="v0.14.3">0.14.3 (Oct 30, 2016)</a>
 - Updated translations
 - Fixed bold tags in message dialogs in Polish translation
 - Fixed incorrect title of view subscription action
 
-# <a id="v0.14.2">_0.14.2 - Font size fix (Oct 29, 2016)_</a>
+# <a id="v0.14.2">0.14.2 (Oct 29, 2016)</a>
 - Fixed font size loading incorrectly
 
-# <a id="v0.14.1">_0.14.1 - Setting defaults fix (Oct 29, 2016)_</a>
+# <a id="v0.14.1">0.14.1 (Oct 29, 2016)</a>
 - Fixed some settings missing their default values
 
-# <a id="v0.14.0">0.14.0 - Polish translation (Oct 29, 2016)</a>
+# <a id="v0.14.0">0.14.0 (Oct 29, 2016)</a>
 ## Features
 
 - Polish translation
@@ -489,7 +489,7 @@ This is done with a temporary workaround required because of some changes in and
 - Fixed swipe back gesture disturbing in updating slider settings
 - Fixed being able to accidentally open browser multiple times when pressing on article header
 
-# <a id="v0.13.1">0.13.1 - Font size (Oct 19, 2016)</a>
+# <a id="v0.13.1">0.13.1 (Oct 19, 2016)</a>
 ## Features 
 
 - Font size customization
@@ -511,7 +511,7 @@ This is done with a temporary workaround required because of some changes in and
 - Fixed issue where all items would disappear from the navigation drawer when marking all articles from single subscriptions or folder as read.
 - Fixed pocket authentication dialog not respecting user theme.
 
-# <a id="v0.13.0">0.13.0 - Search screen (Oct 9, 2016)</a>
+# <a id="v0.13.0">0.13.0 (Oct 9, 2016)</a>
 ## Features
 
 - Open in browser by tapping on article header
@@ -528,7 +528,7 @@ This is done with a temporary workaround required because of some changes in and
 
 - Fixed small click targets in dialogs
 
-# <a id="v0.12.0">0.12.0 - Readability mode (Sep 29, 2016)</a>
+# <a id="v0.12.0">0.12.0 (Sep 29, 2016)</a>
 ## Features
 
 - Readability article full content loading
@@ -554,7 +554,7 @@ This is done with a temporary workaround required because of some changes in and
 - Fixed FAB progress bar appearing out of place
 - Few more crash fixes
 
-# <a id="v0.11.3">0.11.3 - FAB animations (Sep 24, 2016)</a>
+# <a id="v0.11.3">0.11.3 (Sep 24, 2016)</a>
 ## Features
 
 - Progress animation on FAB when marking all as read or saving to pocket
@@ -569,7 +569,7 @@ This is done with a temporary workaround required because of some changes in and
 - Fixed crash when changing gesture settings
 - Fixed subscription listing error for new Inoreader accounts
 
-# <a id="v0.11.2">0.11.2 - Premium color picker (Sep 21, 2016)</a>
+# <a id="v0.11.2">0.11.2 (Sep 21, 2016)</a>
 ## Features
 
 - Extended color picker for premium users
@@ -592,7 +592,7 @@ Changed the order to make it easier to find actions and added dividers to separa
 - Fixed incorrect highlights for dark blue and sepia themes
 - Fixed feedback email body
 
-# <a id="v0.11.1">0.11.1 - Clean up and error handling (Sep 19, 2016)</a>
+# <a id="v0.11.1">0.11.1 (Sep 19, 2016)</a>
 Slowly preparing for open alpha. This is a small update focused on error handling and bug fixes.
 
 ## Features
@@ -622,7 +622,7 @@ Slowly preparing for open alpha. This is a small update focused on error handlin
 - Fixed pocket auth not working in content screen
 - Fixed automatic night mode switching not working correctly
 
-# <a id="v0.11.0">0.11.0 - Appearance details (Sep 12, 2016)</a>
+# <a id="v0.11.0">0.11.0 (Sep 12, 2016)</a>
 ## Features 
 
 - Setting article tags from content screen
@@ -664,7 +664,7 @@ Slowly preparing for open alpha. This is a small update focused on error handlin
 - Fixed swiping back getting disturbed when article content loads images 
 - Fixed navigation drawer closing on orientation change
 
-# <a id="v0.10.3">0.10.3 - Premium (Aug 29, 2016)</a>
+# <a id="v0.10.3">0.10.3 (Aug 29, 2016)</a>
 Another update focused on bug fixes and improvements, with few bonus features. One of them is quick theme switcher which allows for easy changing of themes from main screen and another one is subscribing to feeds by sharing links from other applications.
 
 Work on premium features also started and now there is a special screen dedicated for them.
@@ -689,7 +689,7 @@ Work on premium features also started and now there is a special screen dedicate
 - [Inoreader] Fixed unread counter not working for reading list
 - Fixed infinite progress animation when not authenticated with pocket
 
-# <a id="v0.10.2">0.10.2 - Advertisements (Aug 22, 2016)</a>
+# <a id="v0.10.2">0.10.2 (Aug 22, 2016)</a>
 Small version which focuses on improvements. Main change is a new screen navigation behavior which makes sure that you are always able to go back to previous screens.
 
 ## Features 
@@ -713,7 +713,7 @@ Not a cool feature but something to earn money. In-App purchases and premium fea
 - Fixed incorrect subscription details when there was no author
 - Fixed broken toolbar icon
 
-# <a id="v0.10.1">0.10.1 - SwipeActionView separation (Aug 17, 2016)</a>
+# <a id="v0.10.1">0.10.1 (Aug 17, 2016)</a>
 Small update which focuses on code improvements for articles swiping. The code which was used for it has been moved to separate library (soon to be open source). This will make it possible from other people to contribute and improve it.
 
 New screen switching animations have been added as a bonus feature.
@@ -740,7 +740,7 @@ New screen switching animations have been added as a bonus feature.
 - Improved look of toolbar in search screen
 - SwipeActionView is now a separate library
 
-# <a id="v0.10.0">0.10.0 - Image viewer (Jul 30, 2016)</a>
+# <a id="v0.10.0">0.10.0 (Jul 30, 2016)</a>
 #### Features 
 
 - **Article tagging**
@@ -764,7 +764,7 @@ New screen switching animations have been added as a bonus feature.
 - Fixed subscriptions appearing both in root view and child folder when added to one
 - Fixed bug causing some subscriptions to disappear
 
-# <a id="v0.9.0">0.9.0 - Application information screens (Jul 17, 2016)</a>
+# <a id="v0.9.0">0.9.0 (Jul 17, 2016)</a>
 This version is about displaying application information to the user. I've new screens with changelogs, library licenses and useful links. In addition there are some bug fixes for annoying issues.
 
 #### Features 
@@ -786,7 +786,7 @@ This version is about displaying application information to the user. I've new s
 - Colored subscription search text to stay visible
 - Fixed few crashes
 
-# <a id="v0.8.0">0.8.0 - Feedly integration (Jul 6, 2016)</a>
+# <a id="v0.8.0">0.8.0 (Jul 6, 2016)</a>
 In this version I've focused on adding integration with Feedly service and implemented OAuth2 for Inoreader. Bonus new features that are now available are multiple accounts support and subscriptions search.
 
 ##### Features
@@ -821,7 +821,7 @@ It is now possible to remove any selected account which works just like logging 
 - When you delete folder empty subscriptions shouldn't incorrectly appear in navigation drawer anymore
 - Fixed few issues with renaming of folders and subscriptions
 
-# <a id="v0.7.0">0.7.0 - Actions customization (Jun 1, 2016)</a>
+# <a id="v0.7.0">0.7.0 (Jun 1, 2016)</a>
 The version which finally implements the main component of this application called customizability. You are now able to specify what happens when performing gestures on articles and floating action buttons. 
 
 #### Features 
@@ -865,7 +865,7 @@ This makes it easy to toggle read state of articles when needed and removes the 
 - Removed copy link text action from long press menu
 It was very easy for it to work incorrectly and the gain in having it available was really low.
 
-# <a id="v0.6.2">0.6.2 - Subscription management polish (May 21, 2016)</a>
+# <a id="v0.6.2">0.6.2 (May 21, 2016)</a>
 Another version which focuses on improving the subscriptions and folders management screen. This time the primary improvements are listening to users sort order when displaying subscriptions and highlight of currently viewed items in the navigation drawer. 
 
 #### Features 
@@ -892,7 +892,7 @@ Another version which focuses on improving the subscriptions and folders managem
 - Fixed articles that were scrolled out of view and marked as read not look as read when showing them again
 - Fixed some crashes when having connection issues
 
-# <a id="v0.6.1">0.6.1 - Folders (May 13, 2016)</a>
+# <a id="v0.6.1">0.6.1 (May 13, 2016)</a>
 This version brings more improvements to the subscription management screen, focusing mostly on folders and tags.
 
 #### Features:
@@ -926,7 +926,7 @@ This version brings more improvements to the subscription management screen, foc
 - Fixed situation where icons in toolbar weren't colored
 - Fixed special symbols not appearing correctly for subscription titles
 
-# <a id="v0.6.0">0.6.0 - Subscriptions (Apr 21, 2016)</a>
+# <a id="v0.6.0">0.6.0 (Apr 21, 2016)</a>
 This version focuses on subscriptions and folders. Now you are able to see in which folder each subscription is located and also load articles that come only from single subscription. 
 
 Another big new feature is option to see read articles. This comes with few easy ways to switch between whether they are loaded or not and also remove all read items currently loaded. 
@@ -958,7 +958,7 @@ Another big new feature is option to see read articles. This comes with few easy
  - Delete
 - Many smaller improvements and bug fixes
 
-# <a id="v0.5.0">0.5.0 - Color customization (Mar 29, 2016)</a>
+# <a id="v0.5.0">0.5.0 (Mar 29, 2016)</a>
 This versions brings new color customization settings and a new feature which colors background behind article titles to use colors extracted from images. 
 
 - **Colored article content headers**
@@ -983,7 +983,7 @@ This versions brings new color customization settings and a new feature which co
 - Saving articles to pocket from content activity now actually saved correct article and not its friends
 - Scroll position when rotating screen while reading article is now restored
 
-# <a id="v0.4.0">0.4.0 - View pager and automatic night mode (Mar 19, 2016)</a>
+# <a id="v0.4.0">0.4.0 (Mar 19, 2016)</a>
 This version adds new way to navigate between articles from within the article details activity. In addition there is now support for automatic night mode that changes theme based on time of the day. The header in article details was also improved.
 
 - **Horizontal articles navigation**
@@ -999,7 +999,7 @@ This version adds new way to navigate between articles from within the article d
   - Header is locked in position giving cool effect when scrolling content
 - Removed big empty space that could appear in some articles
 
-# <a id="v0.3.0">0.3.0 - Long press actions (Mar 15, 2016)</a>
+# <a id="v0.3.0">0.3.0 (Mar 15, 2016)</a>
 - Logout confirmation
 - Option to disable images visibility in main feed
 - User information in navigation drawer
@@ -1013,7 +1013,7 @@ This version adds new way to navigate between articles from within the article d
 - Pull to refresh in subscription list
 - Error messages when failed to (un)subscribe to new feed
 
-# <a id="v0.2.0">0.2.0 - Theming and subscriptions list (Mar 11, 2016)</a>
+# <a id="v0.2.0">0.2.0 (Mar 11, 2016)</a>
 Improved look and basic subscription list.
 
 Features:
@@ -1028,7 +1028,7 @@ Features:
 - Option to disable toolbar hiding
 - Bug fixes
 
-# <a id="v0.1.0">0.1.0 - The beginning (Mar 6, 2016)</a>
+# <a id="v0.1.0">0.1.0 (Mar 6, 2016)</a>
 First private version of the application. 
 
 Main features:
