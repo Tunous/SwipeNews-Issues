@@ -1,5 +1,11 @@
 # **Current version**
 
+# <a id="v0.21.2">0.21.2 (Sep 30, 2017)</a>
+
+- Fixed incorrectly setup loading state (all/unread) for folders and tags (This time correctly)
+- Added missing "Experimental" text to Feedbin login button
+- Updated translations
+
 # <a id="v0.21.1">0.21.1 (Sep 29, 2017)</a>
 
 - Fixed Feedbin initialization crash on Android 6 and lower
