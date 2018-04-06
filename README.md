@@ -6,7 +6,6 @@ Here you can view existing feature requests and bug reports or contribute with y
 
 - [View existing issues][issues]
 - [Add new issue][new-issue]
-- [Track development][trello]
 - [Help translating][translate]
 - [Join Beta testing][beta-testing]
 - [Download SwipeNews][download]
@@ -22,7 +21,6 @@ Here you can view existing feature requests and bug reports or contribute with y
 If you don't have GitHub account and don't want to create one you can also send your feature requests and bug reports via email.
 
 [issues]: https://github.com/Tunous/SwipeNews-Issues/issues
-[trello]: https://trello.com/b/bmBdy6v3/swipenews
 [download]: https://play.google.com/store/apps/details?id=me.thanel.swipenews
 [beta-testing]: https://play.google.com/apps/testing/me.thanel.swipenews
 [translate]: https://docs.google.com/spreadsheets/d/14x7VprNLmvh3OpAF3hnQSMLFlRtnn-1T-pewwVRBs1g/edit#gid=0
