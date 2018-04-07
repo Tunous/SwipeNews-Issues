@@ -1,23 +1,42 @@
 # **Current version**
 
-# <a id="v0.21.2">0.21.2 (Sep 30, 2017)</a>
+# <a id="v0.22.1">0.22.1 (Apr 07, 2018)</a>
 
-- Fixed incorrectly setup loading state (all/unread) for folders and tags (This time correctly)
-- Added missing "Experimental" text to Feedbin login button
-- Updated translations
+- Added setting to control whether link sharing should include article summary (disabled by default)
+- Fixed changelog not getting dismissed
 
-# <a id="v0.21.1">0.21.1 (Sep 29, 2017)</a>
+# <a id="v0.22.0">0.22.0 (Apr 06, 2018)</a>
 
-- Fixed Feedbin initialization crash on Android 6 and lower
-- Fixed crash when images load while app is being closed
-- Fixed crashes happening when loading fails due to login issue
-- Fixed crash when attempting to load full content for invalid links
-- Fixed rare crash when changing article view mode
-- Fixed rare crash when attempting to send feedback email
-- Fixed incorrectly setup loading state (all/unread) for folders and tags
+## Features
+
+- Offline mode
+
+## Improvements
+
+- Notifications for unread articles now work with Feedbin
+- Inverted icons for some actions to work similar to other applications (For example star icon is now filled when article is starred)
+- Some minor interface changes
+
+## Bug fixes
+
+- Fixed multiple highlight animations when clicking on tag icons
+- Unread counter now always stays in sync with number of loaded unread articles
+- Reduced default priority of notification indicating that articles are being downloaded in background (Affects only new users)
+- Fixed common crash happening for people with many subscriptions
+- Fixed few less common crashes
+
+## Other
+
+- Removed options smaller than 15 minutes for sync interval (Required due to internal changes)
+- Removed setting telling how many articles to load at once (No longer needed)
+- Subscriptions are now always ordered alphabetically (Manual ordering is planned in future)
+- Removed link to Trello development board from about screen (Using GitHub more instead)
+- Removed filter out subscription action (Complicated to add with new code, might re-implement in future if there will be many requests)
 
 # **Updates history**
 
+- [0.21.2 (Sep 30, 2017)](#v0.21.2)
+- [0.21.1 (Sep 29, 2017)](#v0.21.1)
 - [0.21.0 (Sep 22, 2017)](#v0.21.0)
 - [0.20.4 (Aug 28, 2017)](#v0.20.4)
 - [0.20.3 (Jun 27, 2017)](#v0.20.3)
@@ -75,6 +94,22 @@
 - [0.1.0 (Mar 6, 2016)](#v0.1.0)
 
 ___
+
+# <a id="v0.21.2">0.21.2 (Sep 30, 2017)</a>
+
+- Fixed incorrectly setup loading state (all/unread) for folders and tags (This time correctly)
+- Added missing "Experimental" text to Feedbin login button
+- Updated translations
+
+# <a id="v0.21.1">0.21.1 (Sep 29, 2017)</a>
+
+- Fixed Feedbin initialization crash on Android 6 and lower
+- Fixed crash when images load while app is being closed
+- Fixed crashes happening when loading fails due to login issue
+- Fixed crash when attempting to load full content for invalid links
+- Fixed rare crash when changing article view mode
+- Fixed rare crash when attempting to send feedback email
+- Fixed incorrectly setup loading state (all/unread) for folders and tags
 
 # <a id="v0.21.0">0.21.0 (Sep 22, 2017)</a>
 
