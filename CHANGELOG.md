@@ -1,5 +1,13 @@
 # **Current version**
 
+# <a id="v0.22.2">0.22.2 (Apr 08, 2018)</a>
+
+- Fixed marking multiple streams as read not working while offline
+- Fixed notifications not working on devices with Android 6 or lower
+- Fixed crash when adding new subscription under some conditions
+- Fixed rare crash in article content screen
+- Temporarily disabled setting for auto-refresh
+
 # <a id="v0.22.1">0.22.1 (Apr 07, 2018)</a>
 
 - Added setting to control whether link sharing should include article summary (disabled by default)
