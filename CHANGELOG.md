@@ -1,5 +1,15 @@
 # **Current version**
 
+# <a id="v0.22.4">0.22.4 (Apr 09, 2018)</a>
+
+- Fixed Feedbin loading only small number of articles when refreshing
+
+# <a id="v0.22.3">0.22.3 (Apr 09, 2018)</a>
+
+- Fixed crash on devices with Android < 21 when displaying notifications
+- Fixed synchronization of read state not working for old articles
+- Few smaller bug fixes
+
 # <a id="v0.22.2">0.22.2 (Apr 08, 2018)</a>
 
 - Fixed marking multiple streams as read not working while offline
