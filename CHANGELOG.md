@@ -1,5 +1,9 @@
 # **Current version**
 
+# <a id="v0.22.5">0.22.5 (Apr 10, 2018)</a>
+
+- Fixed crash when there are no unread articles
+
 # <a id="v0.22.4">0.22.4 (Apr 09, 2018)</a>
 
 - Fixed Feedbin loading only small number of articles when refreshing
