@@ -1,5 +1,13 @@
 # **Current version**
 
+# <a id="v0.22.6">0.22.6 (Apr 11, 2018)</a>
+
+- Fixed crash when adding subscription through share menu
+- Read articles are now automatically hidden when refreshing
+- If access token for account has expired the app will now display notification with instructions on how to fix this problem
+- When logging to the same account again all the information is now correctly updated and no data is lost
+- Fixed more rare crashes
+
 # <a id="v0.22.5">0.22.5 (Apr 10, 2018)</a>
 
 - Fixed crash when there are no unread articles
