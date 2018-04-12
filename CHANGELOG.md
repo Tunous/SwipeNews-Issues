@@ -1,5 +1,11 @@
 # **Current version**
 
+# <a id="v0.22.7">0.22.7 (Apr 12, 2018)</a>
+
+- Fixed latest article being incorrectly marked as read
+- Fixed incorrect articles being opened while changelog is visible
+- Fixed synchronization of starred articles
+
 # <a id="v0.22.6">0.22.6 (Apr 11, 2018)</a>
 
 - Fixed crash when adding subscription through share menu
