@@ -1,5 +1,11 @@
 # **Current version**
 
+# <a id="v0.23.1">0.23.1 (May 18, 2018)</a>
+
+- Fixed scroll issue when displaying new articles
+- Fixed some articles not being hidden when toggling "Only unread" option
+- (Inoreader) Fixed adding subscriptions
+
 # <a id="v0.23.0">0.23.0 (May 15, 2018)</a>
 
 - Instapaper integration
@@ -12,6 +18,7 @@
 
 # **Updates history**
 
+- [0.23.1 (May 18, 2018)](#v0.23.1)
 - [0.23.0 (May 15, 2018)](#v0.23.0)
 - [0.22.7 (Apr 12, 2018)](#v0.22.7)
 - [0.22.6 (Apr 11, 2018)](#v0.22.6)
