@@ -1,5 +1,11 @@
 # **Current version**
 
+# <a id="v0.23.2">0.23.2 (Nov 12, 2018)</a>
+
+- Option to hide information bar displayed on articles load
+- Added consent dialog about ads usage (with option in settings)
+- Added link to privacy policy in about screen
+
 # <a id="v0.23.1">0.23.1 (May 18, 2018)</a>
 
 - Fixed scroll issue when displaying new articles
@@ -18,6 +24,7 @@
 
 # **Updates history**
 
+- [0.23.2 (Nov 12, 2018)](#v0.23.2)
 - [0.23.1 (May 18, 2018)](#v0.23.1)
 - [0.23.0 (May 15, 2018)](#v0.23.0)
 - [0.22.7 (Apr 12, 2018)](#v0.22.7)
