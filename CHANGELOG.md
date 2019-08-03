@@ -1,5 +1,15 @@
 # **Current version**
 
+
+# <a id="v0.23.4">0.23.4 (Aug 03, 2019)</a>
+
+- Fixed marking as read/starred for Feedbin
+
+# <a id="v0.23.3">0.23.3 (Jul 17, 2019)</a>
+
+- Fixed articles not loading for Feedbin users
+- Fixed crash when entering screen for adding new subscription
+
 # <a id="v0.23.2">0.23.2 (Nov 12, 2018)</a>
 
 - Option to hide information bar displayed on articles load
@@ -24,6 +34,8 @@
 
 # **Updates history**
 
+- [0.23.4 (Aug 03, 2019)](#v0.23.4)
+- [0.23.3 (Jul 17, 2019)](#v0.23.3)
 - [0.23.2 (Nov 12, 2018)](#v0.23.2)
 - [0.23.1 (May 18, 2018)](#v0.23.1)
 - [0.23.0 (May 15, 2018)](#v0.23.0)
